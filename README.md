@@ -1,16 +1,8 @@
-# React + Vite
+# ASTRO
+> AstroSafra é uma plataforma inteligente para monitoramento agrícola e tomada de decisão. O projeto foi desenvolvido para a Global Solution 2026 da FIAP, projeto final do quarto semestre de Engenharia de Software. Este é apenas um conceito (MVP) desenvolvido única e exclusivamente para a Global Solution, não representa a versão final do produto.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Grupo
+- Ana Luiza Santana da Rocha - RM561194
+- Evandro Yuji Kaibara de Oliveira - RM559274
+- Guilherme Rodrigues Leite - RM560131
+- Pedro Henrique Batista Bergamin - RM559443
